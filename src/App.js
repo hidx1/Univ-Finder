@@ -120,7 +120,7 @@ export default class App extends React.Component {
                 {/* Navbar */}
                 <div>
                     <Navbar className="Navbar">
-                        <Navbar.Brand style={{color: '#383838', fontFamily: 'Open Sans', fontWeight: 'bold', paddingLeft: '2rem'}} className="Brand" href="/">Univ Finder</Navbar.Brand>
+                        <Navbar.Brand style={{color: 'white', fontFamily: 'Open Sans', fontWeight: 'bold', paddingLeft: '2rem'}} className="Brand" href="/">Univ Finder</Navbar.Brand>
                     </Navbar>
                 </div>
             
@@ -179,7 +179,7 @@ export default class App extends React.Component {
 
                     {/* Newsletter */}
                     <Form inline className="Newsletter">
-                        <Form.Text className="Join">Join Our Newsletter</Form.Text>
+                        <Form.Text className="Join" style={{color: 'white'}}>Join Our Newsletter</Form.Text>
                         <Row inline>
                             <Col>
                                 <Form.Group controlId="formBasicEmail" style={{alignContent: 'flex-end'}}>
