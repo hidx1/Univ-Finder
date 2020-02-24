@@ -26,12 +26,15 @@ $ npm start
    Just like the first one, just type it in and the app will save it to users.json (in root)
 
 ## Screenshots
+1. 
 ![](public/Screenshots/1.JPG)
 <br>
 <br>
+2. 
 ![](public/Screenshots/2.JPG)
 <br>
 <br>
+3.
 ![](public/Screenshots/3.JPG)
 <br>
 <br>
